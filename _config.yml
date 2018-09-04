@@ -21,7 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Planning, Modeling, Promotions e.t.c. we serve as a gateway in meeting
   clients needs efficiently and effectively.
 baseurl: "https://photon-e.github.io/socialwaka/" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your Social Waka is a newly form Entertainment and Lifestyle Company that involve in rendering varieties of services such as Audio Arts, Visual Arts, Event Planning, Modeling, Promotions e.t.c. we serve as a gateway in meeting clients needs efficiently and effectively., e.g. http://example.com
+url: "https://photon-e.github.io/socialwaka" # the base hostname & protocol for your Social Waka is a newly form Entertainment and Lifestyle Company that involve in rendering varieties of services such as Audio Arts, Visual Arts, Event Planning, Modeling, Promotions e.t.c. we serve as a gateway in meeting clients needs efficiently and effectively., e.g. http://example.com
 twitter_username: elijahraji
 github_username:  jekyll
 facebook_username: elijahraji
